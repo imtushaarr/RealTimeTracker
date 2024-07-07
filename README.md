@@ -26,8 +26,9 @@ The Real-Time Location Tracker is a web application built with React.js, Node.js
 - VS Code (as the integrated development environment)
 
 ## Demo Image
-![Uploading Screenshot 2024-07-07 at 21.46.49.png…]()
-![Uploading Screenshot 2024-07-07 at 21.46.12.png…]()
+
+<img width="1470" alt="Screenshot 2024-07-07 at 21 46 49" src="https://github.com/imtushaarr/RealTimeTracker/assets/92511269/68cca59b-b409-44c0-bc05-b367232cb64f">
+<img width="643" alt="Screenshot 2024-07-07 at 21 46 12" src="https://github.com/imtushaarr/RealTimeTracker/assets/92511269/14700f35-342c-4d1b-b744-2e19d04dc599">
 
 
 

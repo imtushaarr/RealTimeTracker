@@ -89,6 +89,6 @@ Contributions to the Real-Time Location Tracker are welcome! Here’s how you ca
 
 Feel free to reach out to us if you have any questions, feedback, or suggestions regarding the Real-Time Location Tracker project.
 
-Email: tusharguptagps@gmail.com
-LinkedIn: <a href="https://linkedin.com/in/imtushaarr">Click Here</a>
+- Email: tusharguptagps@gmail.com
+- LinkedIn: <a href="https://linkedin.com/in/imtushaarr">Click Here</a>
 

@@ -1,5 +1,8 @@
 # Real Time Tracker App
 
+![REAL TIME TRACKER APP](https://github.com/imtushaarr/RealTimeTracker/assets/92511269/aaee6331-1047-429e-9db4-f0eb8c306130)
+
+
 The Real-Time Location Tracker is a web application built with React.js, Node.js, Express.js, Socket.io, and Leaflet. It enables real-time tracking of users’ locations on an interactive map. Users can see their own and others’ live locations as markers on the map, facilitating easy monitoring and coordination.
 
 ## Features

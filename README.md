@@ -25,6 +25,12 @@ The Real-Time Location Tracker is a web application built with React.js, Node.js
 - Git & GitHub (for version control and repository management)
 - VS Code (as the integrated development environment)
 
+## Demo Image
+![Uploading Screenshot 2024-07-07 at 21.46.49.png…]()
+![Uploading Screenshot 2024-07-07 at 21.46.12.png…]()
+
+
+
 ## Installation
 
 To run the Real-Time Location Tracker locally, follow these steps:
@@ -36,18 +42,21 @@ cd RealTimeTracker
 ```
 
 2. Install dependencies for both the server and client:
-```# Install server dependencies
+```
+# Install server dependencies
 cd server
 npm install
 ```
 
 # Install client dependencies
+```
 cd ../client
 npm install
 ```
 
 3. Start the server and client development servers:
-```# Start the server (from the server directory)
+```
+# Start the server (from the server directory)
 npm start
 ```
 
